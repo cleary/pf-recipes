@@ -13,7 +13,6 @@ This particular Brownie method is based from a Nigella Lawson recipe - she knows
 
 Ingredients
 ===========
----
 > * 225g Milk Chocolate Bits (*not* Dark Chocolate, it gives Pria migraines)
 > * 225g Nuttelex
 > * 200g Caster Sugar
