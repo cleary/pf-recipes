@@ -9,6 +9,8 @@ Brownie is a classic recipe, and this one yields a decadent, dense and delicious
 
 This particular Brownie method is based from a Nigella Lawson recipe - she knows decadent ;)
 
+---
+
 Ingredients
 ===========
 ---
