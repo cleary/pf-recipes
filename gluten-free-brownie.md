@@ -24,15 +24,16 @@ Ingredients
 Method
 ======
 (Prep: 15 min, Cook 45 min)
-1. Preheat oven to 170 degrees (Celsius)
-2. Melt the Chocolate bits and Nuttelex over low heat, in a heavy base saucepan
-3. Take the pan off the heat, and stir in the Sugar and Vanilla - let it cool a little
-4. Beat the egg whites into the pan, along with the ground almonds, flour and cocoa
-5. Turn out into a lined 24cm square baking tin
-6. Bake for 35-45  minutes. The top should set, but the middle should still be slightly gooey
-7. Once cooled, cut into squares
+
+> 1. Preheat oven to 170 degrees (Celsius)
+> 2. Melt the Chocolate bits and Nuttelex over low heat, in a heavy base saucepan
+> 3. Take the pan off the heat, and stir in the Sugar and Vanilla - let it cool a little
+> 4. Beat the egg whites into the pan, along with the ground almonds, flour and cocoa
+> 5. Turn out into a lined 24cm square baking tin
+> 6. Bake for 35-45  minutes. The top should set, but the middle should still be slightly gooey
+> 7. Once cooled, cut into squares
 
 Notes:
 ======
-* this keeps for 1 week in the fridge, or
-* 3 months in the freezer
+> * this keeps for 1 week in the fridge, or
+> * 3 months in the freezer
