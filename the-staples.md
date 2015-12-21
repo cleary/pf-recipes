@@ -14,6 +14,8 @@ Where there is a brand preference or a flavour preference I've indicated it. Whe
 Long Shelf Life
 ===============
 * Sunflower Oil, Vegetable Oil (*not* Olive Oil)
+* Rice Wine Vinegar (Obento)
+* Soy Sauce, gluten-free (Fountain)
 * Chick Peas, canned
 * Red Kidney Beans, canned - [Edgell](http://edgell.com.au/our-range/legumes/red-kidney-beans)
 * Gluten-free Pasta (San Remo)
