@@ -3,7 +3,7 @@
 - grayburntech
 - 2015/12/24
 - Mains
-- draft
+- published
 
 There's nothing much better than home made Gnocchi. This recipe makes a delicious, and authentic foundation for a pasta dish. 
 There are plenty of options for sauces to use with this dish, I'll cover some of these in another post. 
