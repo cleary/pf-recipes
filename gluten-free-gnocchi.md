@@ -9,6 +9,7 @@ There's nothing much better than home made Gnocchi. This recipe makes a deliciou
 There are plenty of options for sauces to use with this dish, I'll cover some of these in another post. 
 
 In the meantime, please enjoy our variation on a great gnocchi recipe from the [italyonmymind blog](http://italyonmymind.com.au/potato-gnocchi-gluten-free/)!
+
 ---
 
 Ingredients
@@ -27,7 +28,7 @@ Method
 > 3. Drain, or remove one at a time if needed, and peel. 
 > 4. Put the cooked potatoes through a mouli (or a grater will also work) and spread out in a large shallow bowl.
 > 5. Make a well in the center of the potato and pour the egg-white into the center
-> 6. Sprinkle over the cup of plain flour and salt
+> 6. Sprinkle the cup of plain flour and salt over the potato
 > 7. Mix with your hands until the mixture is uniform and make a large loaf shape
 > 8. Cut off a slice of the loaf and divide into cubes that are approximately 2 or 3 cm across
 > 9. Roll each cube between the palms of both hands to form a small ball, then set aside and work on the rest of the potato loaf one slice at a time (covering the loaf with some plastic wrap to prevent it drying out). 
