@@ -8,6 +8,7 @@
 This is a variation on traditional Hommous recipes, the key changes being Citric Acid instead of Lemon Juice, and no Tahini (Sesame Paste).
 
 The texture is slightly thicker, and coarser than the traditional smooth hommous - this is a personal preference though, so feel free to adjust your liquid quantities and blending methods to suit!
+
 ---
 
 Ingredients
