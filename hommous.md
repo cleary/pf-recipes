@@ -1,6 +1,6 @@
 # Hommous
 - Bernie
-- grayburntech
+- graybasstech
 - 2016/01/03
 - Appetisers
 - published

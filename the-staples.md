@@ -1,6 +1,6 @@
 # The Staples
 - Bernie
-- grayburntech
+- graybasstech
 - 2015/12/11
 - Basics
 - published
@@ -11,29 +11,40 @@ Where there is a brand preference or a flavour preference I've indicated it. Whe
 
 ---
 
-Long Shelf Life
-===============
+#Beverages (Long Shelf Life)
+* Almond Milk (unsweetened) - [Almond Breeze Unsweetened](http://www.almondbreeze.com.au/varieties/original-unsweetened/)
+* Soy Milk - [Bonsoy](http://www.spiralfoods.com.au/products/bonsoy-milk?cat=41)
+* Soda Water (unflavoured)
+
+#Condiments (Long Shelf Life)
 * Sunflower Oil, Vegetable Oil (*not* Olive Oil)
 * Rice Wine Vinegar (Obento)
 * Soy Sauce, gluten-free (Fountain)
+
+#Canned Foods (Long Shelf Life)
 * Chick Peas, canned
 * Red Kidney Beans, canned - [Edgell](http://edgell.com.au/our-range/legumes/red-kidney-beans)
-* Gluten-free Pasta (San Remo)
 * Tuna in Sunflower Oil (*not* Olive Oil)
 
-Fresh
-=====
+#Dry Goods (Long Shelf Life)
+* Gluten-free Pasta (San Remo)
+* Quinoa 
+
+#Vegetables (Short Shelf Life)
 * Red (Spanish) Onions
 * Garlic
-* Potatoes
-* Carrot
 * Buk Choy
+* Carrot
+* Potatoes
 
-Seasoning
+#Seasoning (Variable Shelf Life)
 =========
-* Salt
+* Basil (fresh)
+* Oregano (fresh or dry)
+* Parsley (fresh)
 * Pepper
-* Basil
+* Salt
+
 
 ---
 
