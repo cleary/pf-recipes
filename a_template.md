@@ -1,6 +1,6 @@
 # <heading>
 - Bernie <user>
-- grayburntech <twitter>
+- graybasstech <twitter>
 - YYYY/MM/dd
 - Desserts <category>
 - draft
