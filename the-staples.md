@@ -38,7 +38,6 @@ Where there is a brand preference or a flavour preference I've indicated it. Whe
 * Potatoes
 
 #Seasoning (Variable Shelf Life)
-=========
 * Basil (fresh)
 * Oregano (fresh or dry)
 * Parsley (fresh)
