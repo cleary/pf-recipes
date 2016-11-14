@@ -32,6 +32,7 @@ Where there is a brand preference or a flavour preference I've indicated it. Whe
 
 #Vegetables (Short Shelf Life)
 * Red (Spanish) Onions
+* Shallots (spring onions)
 * Garlic
 * Buk Choy
 * Carrot
