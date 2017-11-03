@@ -30,15 +30,20 @@ Where there is a brand preference or a flavour preference I've indicated it. Whe
 * Gluten-free Pasta (San Remo)
 * Quinoa 
 
-#Vegetables (Short Shelf Life)
+#Fruit and Vegetables (Short Shelf Life)
+* Lettuce
 * Red (Spanish) Onions
 * Shallots (spring onions)
 * Garlic
 * Buk Choy
 * Carrot
 * Potatoes
+* Mango
+* Red Delicious Apples (specifically)
+* Loquats/Nespoli
 
 #Seasoning (Variable Shelf Life)
+* Vegetable Stock - Vegeta
 * Basil (fresh)
 * Oregano (fresh or dry)
 * Parsley (fresh)
