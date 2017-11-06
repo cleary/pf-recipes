@@ -5,7 +5,9 @@
 - Desserts
 - published
 
-This flavour combination came about after a failed to win Pria over with a Choc/Peanut biscuit recipe. Fortunately the base biscuit recipe was good, I nailed the balance of flavours first time and we came up with a winner!
+This flavour combination came about after a failed to win Pria over with a Choc/Peanut biscuit recipe. 
+Fortunately the base biscuit recipe was good, I nailed the balance of flavours first time and we came up with a winner!
+
 ---
 
 Ingredients
